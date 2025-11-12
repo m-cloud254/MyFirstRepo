@@ -1,1 +1,3 @@
 This is what I learned so far...
+i've learnt how to create repositories,commit,work with branches.
+i've also learnt about forking, what ssh is and alot about git bash commands.
